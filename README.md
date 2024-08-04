@@ -1,6 +1,9 @@
 # HedaBachelorTemplate
 Henan University Bachelor degree paper latex Template
 
+导入自：https://github.com/davidgao666/HedaBachelorTemplate
+它是物理学院毕业论文的模板，与现在通用的略微不同，期待大佬出手优化
+
 1.适用 TeX Live 软件环境. 建议安装最新版 TeX Live 2019 以及专用编辑器 TeXstudio.
 
   TeX Live 软件及编辑器 TeXstudio安装及更新方法，参见：https://blog.csdn.net/zywhehe/article/details/83113214
